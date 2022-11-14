@@ -1,5 +1,5 @@
 /* REQUIRES the following Arduino libraries:
-// - Lien vidéo: https://youtu.be/Haiq1Ytl-lY
+// - Lien vidéo: https://youtu.be/MAZEjRGThbo
 // - Diagram: https://youtu.be/l33WRd2h6gM
 // - GPxMatrix Library: https://github.com/3tawi/GPxMatrix
 // - DS1307ESP Library: https://github.com/3tawi/DS1307ESPTime
